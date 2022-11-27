@@ -1,6 +1,9 @@
 h1 {color:coral;
-    font-family: Tahoma}
+    font-family: Tahoma;
+}
 p {color:cornflowerblue;
     font-size: 25px;
     font-weight: bold;  
+}
+h2 {font-style: italic;
 }
